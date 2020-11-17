@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\TP2_Unreal.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{E3187EA5-7E00-438A-90B5-EE4716D533FD}</UniqueIdentifier>
+      <UniqueIdentifier>{B84AA729-7494-4DE2-8FE7-133271A0C265}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\TP2_Unreal.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{34320C34-3649-4FEB-826A-9699FF882BE3}</UniqueIdentifier>
+      <UniqueIdentifier>{0F7CB234-B019-4A0C-A79B-40CDD6AB1DE5}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,8 +30,26 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\TP2_Unreal">
-      <UniqueIdentifier>{EA2312C1-E286-47C8-B774-E4A893A4379E}</UniqueIdentifier>
+      <UniqueIdentifier>{0A95AD12-B282-4F39-806D-CE817C5D4B65}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\TP2_Unreal\AnimationInstance.cpp">
+      <Filter>Source\TP2_Unreal</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TP2_Unreal\AnimationInstance.h">
+      <Filter>Source\TP2_Unreal</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TP2_Unreal\TP2_AnimationInstance.cpp">
+      <Filter>Source\TP2_Unreal</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TP2_Unreal\TP2_AnimationInstance.h">
+      <Filter>Source\TP2_Unreal</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TP2_Unreal\TP2_PlayerCharacter.cpp">
+      <Filter>Source\TP2_Unreal</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TP2_Unreal\TP2_PlayerCharacter.h">
+      <Filter>Source\TP2_Unreal</Filter>
+    </ClInclude>
     <None Include="..\..\Source\TP2_Unreal\TP2_Unreal.Build.cs">
       <Filter>Source\TP2_Unreal</Filter>
     </None>
