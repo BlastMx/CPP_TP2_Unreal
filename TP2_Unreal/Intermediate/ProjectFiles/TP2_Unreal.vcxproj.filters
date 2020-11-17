@@ -32,12 +32,6 @@
     <Filter Include="Source\TP2_Unreal">
       <UniqueIdentifier>{0A95AD12-B282-4F39-806D-CE817C5D4B65}</UniqueIdentifier>
     </Filter>
-    <ClCompile Include="..\..\Source\TP2_Unreal\AnimationInstance.cpp">
-      <Filter>Source\TP2_Unreal</Filter>
-    </ClCompile>
-    <ClInclude Include="..\..\Source\TP2_Unreal\AnimationInstance.h">
-      <Filter>Source\TP2_Unreal</Filter>
-    </ClInclude>
     <ClCompile Include="..\..\Source\TP2_Unreal\TP2_AnimationInstance.cpp">
       <Filter>Source\TP2_Unreal</Filter>
     </ClCompile>
