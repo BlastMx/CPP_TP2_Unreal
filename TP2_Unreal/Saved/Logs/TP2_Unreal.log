@@ -751,3 +751,39 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.24-10.11.40:203][497]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/ThirdPersonExampleMap0439A00F47AD387AC0C464B5043F051E.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
 [2020.11.24-10.11.40:260][497]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
 [2020.11.24-10.11.40:260][497]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.24-10.13.59:753][760]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Menu/MainMenu.MainMenu
+[2020.11.24-10.13.59:780][760]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2020.11.24-10.13.59:782][760]Cmd: MAP LOAD FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.24-10.13.59:782][760]LightingResults: New page: Lighting Build
+[2020.11.24-10.13.59:782][760]LoadErrors: New page: Loading map: MainMenu.umap
+[2020.11.24-10.13.59:786][760]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.24-10.13.59:787][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.24-10.13.59:787][760]MapCheck: New page: Map Check
+[2020.11.24-10.13.59:787][760]LightingResults: New page: Lighting Build
+[2020.11.24-10.13.59:812][760]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000020034772000), frame # 2760
+[2020.11.24-10.13.59:812][760]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000020045F63600), frame # 2760
+[2020.11.24-10.13.59:816][760]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2020.11.24-10.13.59:891][760]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.24-10.13.59:891][760]LogAIModule: Creating AISystem for world MainMenu
+[2020.11.24-10.13.59:891][760]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000200939E7000), frame # 2760
+[2020.11.24-10.13.59:892][760]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002008B1F4400), frame # 2760
+[2020.11.24-10.13.59:919][760]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2020.11.24-10.13.59:954][760]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.24-10.13.59:956][760]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,105ms to complete.
+[2020.11.24-10.13.59:956][760]LogFileHelpers: Loading map 'MainMenu' took 0.173
+[2020.11.24-10.14.03:635][978]LogSlate: Took 0.001706 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.11.24-10.14.21:451][ 36]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Options_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset" SILENT=true
+[2020.11.24-10.14.21:463][ 36]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Options_Widget0229AEB4412895EE37E455AE47ED7302.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset'
+[2020.11.24-10.14.21:483][ 36]AssetCheck: New page: Asset Save: Options_Widget
+[2020.11.24-10.14.21:483][ 36]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Options_Widget.Options_Widget
+[2020.11.24-10.14.22:161][ 74]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Menu/Options_Widget.Options_Widget
+[2020.11.24-10.16.33:932][667]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Options_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset" SILENT=true
+[2020.11.24-10.16.33:963][667]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Options_Widget6FB28B044A435FEB387F1FAAD91F88E2.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset'
+[2020.11.24-10.16.33:979][667]AssetCheck: New page: Asset Save: Options_Widget
+[2020.11.24-10.16.33:979][667]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Options_Widget.Options_Widget
+[2020.11.24-10.16.34:934][725]BlueprintLog: New page: Compile Options_Widget
+[2020.11.24-10.16.34:991][725]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2020.11.24-10.16.35:889][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Options_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset" SILENT=true
+[2020.11.24-10.16.35:914][776]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Options_Widget9561CBEF4512255A143A9CAD59896F8A.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset'
+[2020.11.24-10.16.35:927][776]AssetCheck: New page: Asset Save: Options_Widget
+[2020.11.24-10.16.35:927][776]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Options_Widget.Options_Widget
