@@ -996,3 +996,106 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.24-10.35.23:265][793]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Options_Widget6DBF2AA147EC1A24958F8F8A04D728CA.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset'
 [2020.11.24-10.35.23:277][793]AssetCheck: New page: Asset Save: Options_Widget
 [2020.11.24-10.35.23:277][793]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Options_Widget.Options_Widget
+[2020.11.24-10.36.29:200][ 73]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Options_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset" SILENT=true
+[2020.11.24-10.36.29:240][ 73]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Options_Widget77C54A6F4FC773CA8B9554858BE5DECC.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset'
+[2020.11.24-10.36.29:254][ 73]AssetCheck: New page: Asset Save: Options_Widget
+[2020.11.24-10.36.29:254][ 73]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Options_Widget.Options_Widget
+[2020.11.24-10.36.32:498][267]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Main_Menu_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Main_Menu_Widget.uasset" SILENT=true
+[2020.11.24-10.36.32:526][267]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Main_Menu_Widget916C37CA40A13108D7C392B39049002F.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Main_Menu_Widget.uasset'
+[2020.11.24-10.36.32:539][267]AssetCheck: New page: Asset Save: Main_Menu_Widget
+[2020.11.24-10.36.32:539][267]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Main_Menu_Widget.Main_Menu_Widget
+[2020.11.24-10.36.34:506][382]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2020.11.24-10.36.34:531][382]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/MainMenuE2BEBF8F4770B1BE047B64A3CB771996.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/MainMenu.umap'
+[2020.11.24-10.36.34:571][382]LogFileHelpers: Saving map 'MainMenu' took 0.102
+[2020.11.24-10.36.34:584][382]AssetCheck: New page: Asset Save: MainMenu
+[2020.11.24-10.36.34:584][382]LogContentValidation: Display: Validating World /Game/Menu/MainMenu.MainMenu
+[2020.11.24-10.36.38:614][619]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2020.11.24-10.36.38:635][619]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/MainMenu36ADEAD54CF73D052F304DAB6321B58B.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/MainMenu.umap'
+[2020.11.24-10.36.38:685][619]AssetCheck: New page: Asset Save: MainMenu
+[2020.11.24-10.36.38:685][619]LogContentValidation: Display: Validating World /Game/Menu/MainMenu.MainMenu
+[2020.11.24-10.36.39:656][677]LogTemp: Repeating last play command: Selected Viewport
+[2020.11.24-10.36.39:685][677]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.11.24-10.36.39:686][677]PIE: New page: PIE session: MainMenu (24 nov. 2020 à 12:36:39)
+[2020.11.24-10.36.39:689][677]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.11.24-10.36.39:691][677]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.11.24-10.36.39:692][677]LogPlayLevel: Creating play world package: /Game/Menu/UEDPIE_0_MainMenu
+[2020.11.24-10.36.39:695][677]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002227s)
+[2020.11.24-10.36.39:697][677]LogAIModule: Creating AISystem for world MainMenu
+[2020.11.24-10.36.39:697][677]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002009B603E00), frame # 46677
+[2020.11.24-10.36.39:697][677]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020007106200), frame # 46677
+[2020.11.24-10.36.39:697][677]LogPlayLevel: PIE: World Init took: (0.001662s)
+[2020.11.24-10.36.39:697][677]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Menu/MainMenu.MainMenu to /Game/Menu/UEDPIE_0_MainMenu.MainMenu (0.004472s)
+[2020.11.24-10.36.39:734][677]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2020.11.24-10.36.39:736][677]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.11.24-10.36.39:736][677]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.11.24-10.36.39:736][677]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.11.24-10.36.39:736][677]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.11.24-10.36.39:736][677]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.11.24-10.36.39:736][677]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.11.24-10.36.39:736][677]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.11.24-10.36.39:736][677]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.11.24-10.36.39:737][677]LogAudio: Display: Using built-in audio occlusion.
+[2020.11.24-10.36.39:737][677]LogAudioMixer: Display: Initializing audio mixer.
+[2020.11.24-10.36.39:742][677]LogAudioMixer: Display: 0: FrontLeft
+[2020.11.24-10.36.39:742][677]LogAudioMixer: Display: 1: FrontRight
+[2020.11.24-10.36.39:742][677]LogAudioMixer: Display: 2: FrontCenter
+[2020.11.24-10.36.39:742][677]LogAudioMixer: Display: 3: LowFrequency
+[2020.11.24-10.36.39:742][677]LogAudioMixer: Display: 4: BackLeft
+[2020.11.24-10.36.39:742][677]LogAudioMixer: Display: 5: BackRight
+[2020.11.24-10.36.39:742][677]LogAudioMixer: Display: 6: SideLeft
+[2020.11.24-10.36.39:742][677]LogAudioMixer: Display: 7: SideRight
+[2020.11.24-10.36.39:814][677]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2020.11.24-10.36.39:814][677]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.11.24-10.36.39:814][677]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.11.24-10.36.39:814][677]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.11.24-10.36.39:815][677]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.11.24-10.36.39:830][677]LogInit: FAudioDevice initialized.
+[2020.11.24-10.36.39:841][677]LogLoad: Game class is 'TP2_GameMode_BP_C'
+[2020.11.24-10.36.39:842][677]LogWorld: Bringing World /Game/Menu/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2020.11.24-11.36.39
+[2020.11.24-10.36.39:844][677]LogWorld: Bringing up level for play took: 0.001552
+[2020.11.24-10.36.39:845][677]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.11.24-10.36.39:870][677]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2020.11.24-10.36.39:871][677]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.11.24-10.36.39:871][677]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.11.24-10.36.39:871][677]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.11.24-10.36.39:880][677]Cmd: r.setres 1920x1080
+[2020.11.24-10.36.39:886][677]r.SetRes = "1920x1080"
+[2020.11.24-10.36.39:888][677]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.11.24-10.36.39:888][677]PIE: Server logged in
+[2020.11.24-10.36.39:890][677]PIE: Play in editor total start time 0,212 seconds.
+[2020.11.24-10.36.48:402][167]LogGameMode: Display: Match State Changed from InProgress to LeavingMap
+[2020.11.24-10.36.48:402][167]LogGameState: Match State Changed from InProgress to LeavingMap
+[2020.11.24-10.36.48:402][167]LogNet: Browse: /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap
+[2020.11.24-10.36.48:403][167]LogLoad: LoadMap: /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap
+[2020.11.24-10.36.48:403][167]LogWorld: BeginTearingDown for /Game/Menu/UEDPIE_0_MainMenu
+[2020.11.24-10.36.48:405][167]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.11.24-10.36.48:405][167]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.24-10.36.48:548][167]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000020007106200), frame # 47167
+[2020.11.24-10.36.48:548][167]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002009B603E00), frame # 47167
+[2020.11.24-10.36.48:580][167]LogUObjectHash: Compacting FUObjectHashTables data took   7.35ms
+[2020.11.24-10.36.48:604][167]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.11.24-10.36.48:604][167]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020055238200), frame # 47167
+[2020.11.24-10.36.48:604][167]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000200C1E60F40), frame # 47167
+[2020.11.24-10.36.48:605][167]LogLoad: Game class is 'TP2_GameMode_BP_C'
+[2020.11.24-10.36.48:621][167]LogWorld: Bringing World /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2020.11.24-11.36.48
+[2020.11.24-10.36.48:622][167]LogWorld: Bringing up level for play took: 0.016119
+[2020.11.24-10.36.48:624][167]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2020.11.24-10.36.48:624][167]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2020.11.24-10.36.48:624][167]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2020.11.24-10.36.48:627][167]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2020.11.24-10.36.48:627][167]LogLoad: Took 0.224925 seconds to LoadMap(/Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap)
+[2020.11.24-10.37.07:719][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.24-10.37.07:719][309]LogWorld: BeginTearingDown for /Game/ThirdPersonCPP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2020.11.24-10.37.07:719][309]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2020.11.24-10.37.07:720][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.24-10.37.07:731][309]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.11.24-10.37.07:737][309]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.24-10.37.07:800][309]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.11.24-10.37.07:802][309]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000200C1E60F40), frame # 48309
+[2020.11.24-10.37.07:802][309]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000020055238200), frame # 48309
+[2020.11.24-10.37.07:809][309]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
+[2020.11.24-10.37.07:844][310]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.11.24-10.37.08:525][347]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2020.11.24-10.37.08:545][347]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/MainMenuBAE34C1D4C74E3B63FB65CB2A399B5A3.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/MainMenu.umap'
+[2020.11.24-10.37.08:593][347]AssetCheck: New page: Asset Save: MainMenu
+[2020.11.24-10.37.08:593][347]LogContentValidation: Display: Validating World /Game/Menu/MainMenu.MainMenu
