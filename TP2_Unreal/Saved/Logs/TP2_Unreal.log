@@ -2145,3 +2145,500 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.26-19.00.32:462][  5]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/MainMenu2A84CA734566CEE68646B5A579C104EE.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/MainMenu.umap'
 [2020.11.26-19.00.32:515][  5]AssetCheck: New page: Asset Save: MainMenu
 [2020.11.26-19.00.32:515][  5]LogContentValidation: Display: Validating World /Game/Menu/MainMenu.MainMenu
+[2020.11.26-19.10.12:933][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.10.12:952][738]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_Widget1621CC704F5C9A0CA6AF2C9AF5108C4E.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.10.12:998][738]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.10.12:998][738]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.10.14:505][880]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.10.34:128][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.10.34:167][805]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_Widget3A004BA64988FD5622D87B936EE7CE97.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.10.34:202][805]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.10.34:203][805]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.10.36:747][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.10.36:776][ 32]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_Widget4D0627804980A522B2455093C91EE075.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.10.36:812][ 32]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.10.36:812][ 32]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.10.42:301][566]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.10.42:331][566]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_Widget9DB9742F459A0924075549B050E32127.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.10.42:368][566]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.10.42:368][566]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.10.52:043][466]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.10.52:073][466]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_WidgetBECE579A44E5FF682A8F61AD22290A3E.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.10.52:111][466]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.10.52:111][466]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.10.55:648][852]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.10.55:677][852]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_WidgetF121185646FC5B42FCB3679DD442111A.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.10.55:714][852]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.10.55:714][852]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.10.56:708][963]BlueprintLog: New page: Compile Menu_Pause_Widget
+[2020.11.26-19.10.56:796][963]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2020.11.26-19.10.57:966][ 88]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.10.57:992][ 88]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_WidgetC9037FC842639BABB1CBEF8B4EA6EF2B.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.10.58:006][ 88]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.10.58:006][ 88]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.11.08:230][ 78]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.11.08:261][ 78]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_Widget5FE7752348F8C52AB1FED597D4A67F81.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.11.08:298][ 78]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.11.08:298][ 78]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.11.36:236][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.11.36:269][503]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_Widget0DFED4F147CEDA2D285382AB682FE20E.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.11.36:305][503]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.11.36:305][503]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.12.05:619][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.12.05:647][190]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_Widget513AFEC74527F78D7FD889AF4C36B1D2.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.12.05:692][190]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.12.05:693][190]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.12.14:938][976]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.12.14:967][976]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_Widget92D02F674445FB9FFC3109807CE4B297.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.12.15:007][976]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.12.15:007][976]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.12.23:514][724]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.12.23:542][724]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_Widget5B6F56974625B7E1EF5B568E2CBC32FB.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.12.23:586][724]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.12.23:586][724]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.12.25:951][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.12.25:983][938]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_WidgetF840EFBD40C267A0F6A20AB3F1985305.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.12.26:022][938]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.12.26:022][938]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.12.30:077][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.12.30:108][296]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_Widget69BDC3DA467847EE0C11209D251E6303.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.12.30:145][296]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.12.30:145][296]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.12.31:216][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.12.31:246][402]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_Widget378C634B489A559DA50012ACC905507D.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.12.31:284][402]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.12.31:284][402]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.12.33:383][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.12.33:413][643]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_WidgetB420C9574236494D16183985B29B3797.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.12.33:461][643]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.12.33:462][643]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.12.34:827][800]BlueprintLog: New page: Compile Menu_Pause_Widget
+[2020.11.26-19.12.34:898][800]LogUObjectHash: Compacting FUObjectHashTables data took   7.99ms
+[2020.11.26-19.12.36:727][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.12.36:756][  4]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_Widget9BA8E65D468B5AA3D3A3069876C767A1.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.12.36:804][  4]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.12.36:804][  4]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.12.46:537][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.12.46:570][882]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_Widget5A3D47D349CCD7833B2959A4885B67D0.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.12.46:605][882]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.12.46:605][882]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.12.55:338][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.12.55:368][615]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_WidgetE909E58A4670BB93A2AD0BA63975B327.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.12.55:410][615]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.12.55:410][615]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.12.57:119][760]BlueprintLog: New page: Compile Menu_Pause_Widget
+[2020.11.26-19.12.57:175][760]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2020.11.26-19.12.57:925][815]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.12.57:957][815]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_WidgetA79E626C4B792F2B02966FA478FAEE55.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.12.58:002][815]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.12.58:002][815]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.13.00:465][ 72]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.13.00:495][ 72]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_Widget825A57ED4016DE0B918027BB6447C2DE.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.13.00:533][ 72]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.13.00:533][ 72]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.13.25:354][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.13.25:386][  6]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_Widget581863B64812C5794B2571BB1CD592DA.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.13.25:409][  6]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.13.25:409][  6]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.13.28:237][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.13.28:267][284]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_Widget02DBCCD04952C5D4B4C4928CBBDC0763.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.13.28:297][284]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.13.28:297][284]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.13.57:913][962]LogEditorTransaction: Undo Move Widget
+[2020.11.26-19.14.07:500][686]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.14.07:529][686]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_Widget37436E064066CC935BB318BFC88C1EBA.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.14.07:573][686]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.14.07:573][686]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.14.29:082][477]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.14.29:114][477]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_WidgetABB2677F49354162C6820FB4B6C5D4F7.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.14.29:155][477]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.14.29:155][477]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.14.41:179][670]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.14.41:212][670]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_Widget6AB746E3414244C8CFD6979D4E609054.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.14.41:264][670]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.14.41:264][670]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.14.48:417][300]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.14.48:447][300]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_WidgetA1AC88EA428C341221AEAF8C9ED51F89.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.14.48:487][300]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.14.48:487][300]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.15.12:530][387]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.15.12:564][387]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_Widget7F6FB2A540F80A7C88D9DA8779D8F1EF.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.15.12:603][387]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.15.12:603][387]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.15.16:974][767]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.15.17:006][767]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_WidgetAE77C4A443F9C8E204C25C8FFFD96024.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.15.17:041][767]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.15.17:041][767]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.15.31:663][429]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.15.31:697][429]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_WidgetEB73BAAA417AAFC1F510BB8EC4A5F491.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.15.31:734][429]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.15.31:734][429]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.15.38:186][  5]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.15.38:229][  5]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_Widget7AD2CD8041CB7800A0220697DF533D76.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.15.38:261][  5]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.15.38:261][  5]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.15.42:789][388]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.15.42:820][388]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_Widget59D8D09B4695AF56421DED84EB445CC9.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.15.42:854][388]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.15.42:854][388]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.15.43:882][480]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.15.43:915][480]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_Widget876C248545E429E74BEF77989ECC48E1.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.15.43:952][480]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.15.43:952][480]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.15.50:735][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.15.50:766][117]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_WidgetE4685A5E45128574DD1E60ACF825B99E.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.15.50:806][117]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.15.50:806][117]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.16.27:571][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.16.27:604][413]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_WidgetE35D39024B5F975641AD14ABADAA69DD.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.16.27:634][413]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.16.27:634][413]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.16.28:420][490]BlueprintLog: New page: Compile Menu_Pause_Widget
+[2020.11.26-19.16.28:485][490]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2020.11.26-19.16.29:382][584]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.16.29:413][584]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_WidgetE93767A347A6348638477FA271BCD513.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.16.29:449][584]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.16.29:449][584]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.16.48:376][734]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.16.48:409][734]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_WidgetF1E6AF8F47D062B388F5D5B5E36A5235.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.16.48:446][734]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.16.48:446][734]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.17.48:337][376]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2020.11.26-19.17.48:381][376]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/MainMenu027E8EE4496F65F5F6F235940B0CC254.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/MainMenu.umap'
+[2020.11.26-19.17.48:445][376]AssetCheck: New page: Asset Save: MainMenu
+[2020.11.26-19.17.48:445][376]LogContentValidation: Display: Validating World /Game/Menu/MainMenu.MainMenu
+[2020.11.26-19.18.34:160][293]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2020.11.26-19.18.34:192][293]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/MainMenuA7B59A0249B24D8B25F9918B71721EFD.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/MainMenu.umap'
+[2020.11.26-19.18.34:257][293]AssetCheck: New page: Asset Save: MainMenu
+[2020.11.26-19.18.34:257][293]LogContentValidation: Display: Validating World /Game/Menu/MainMenu.MainMenu
+[2020.11.26-19.19.00:112][882]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.26-19.19.00:165][882]LogUObjectHash: Compacting FUObjectHashTables data took   4.46ms
+[2020.11.26-19.19.00:170][882]Cmd: MAP LOAD FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.11.26-19.19.00:170][882]LightingResults: New page: Lighting Build
+[2020.11.26-19.19.00:170][882]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2020.11.26-19.19.00:215][882]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.11.26-19.19.00:215][882]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.26-19.19.00:352][882]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2020.11.26-19.19.00:352][882]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.26-19.19.00:353][882]MapCheck: New page: Map Check
+[2020.11.26-19.19.00:353][882]LightingResults: New page: Lighting Build
+[2020.11.26-19.19.00:403][882]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000025F9A434180), frame # 461882
+[2020.11.26-19.19.00:403][882]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000025F87207800), frame # 461882
+[2020.11.26-19.19.00:408][882]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2020.11.26-19.19.00:599][882]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.11.26-19.19.00:599][882]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.11.26-19.19.00:599][882]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000260404DB000), frame # 461882
+[2020.11.26-19.19.00:599][882]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000025F5190F380), frame # 461882
+[2020.11.26-19.19.00:652][882]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2020.11.26-19.19.00:703][882]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.11.26-19.19.00:703][882]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,15ms to complete.
+[2020.11.26-19.19.00:703][882]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.533
+[2020.11.26-19.19.01:259][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2020.11.26-19.19.01:330][907]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/ThirdPersonExampleMap38878D0644E1C5F69158BCAAD864E759.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.26-19.19.01:400][907]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.11.26-19.19.01:400][907]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.26-19.19.41:757][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.11.26-19.19.41:807][723]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/ThirdPersonExampleMap13C0DFEE455138ACF42BC89AD001876C.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.26-19.19.41:874][723]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.11.26-19.19.41:874][723]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.26-19.20.08:642][292]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.20.08:672][292]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_Widget3B08B92C45B8C37E52A2A6A6887C0FDD.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.20.08:709][292]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.20.08:709][292]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.20.11:997][674]BlueprintLog: New page: Compile Menu_Pause_Widget
+[2020.11.26-19.20.12:059][674]LogUObjectHash: Compacting FUObjectHashTables data took   7.07ms
+[2020.11.26-19.20.12:818][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.20.12:848][751]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_Widget9FA528DF43FCA8E0555BF2A1D6C1B727.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.20.12:893][751]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.20.12:893][751]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.20.22:740][802]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.20.22:772][802]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_Widget481E78214BD32EC1FC8EB2884692D4F7.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.20.22:803][802]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.20.22:803][802]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.20.24:524][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.20.24:555][990]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_WidgetE1B60AEE442BA69D095FE99E280704D1.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.20.24:587][990]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.20.24:587][990]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.20.26:520][195]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.20.26:554][195]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_WidgetEA98D993494FF3B7742383918AE608F4.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.20.26:586][195]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.20.26:586][195]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.20.28:834][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.20.28:870][434]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_Widget6F737B1043DE5DEF48F9B9B35D145C03.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.20.28:905][434]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.20.28:905][434]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.20.54:937][422]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.20.54:983][422]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_Widget0C91A33D4CB003053271D299E711C4A9.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.20.55:012][422]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.20.55:012][422]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.20.57:158][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.20.57:194][658]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_Widget1707C88D45CE2BE19D92C2901957325D.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.20.57:230][658]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.20.57:230][658]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.20.57:974][739]BlueprintLog: New page: Compile Menu_Pause_Widget
+[2020.11.26-19.20.58:025][739]LogUObjectHash: Compacting FUObjectHashTables data took   4.70ms
+[2020.11.26-19.20.58:783][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.20.58:817][814]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_Widget0952AB044DA9DFA981604783270F0474.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.20.58:843][814]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.20.58:843][814]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.21.08:858][814]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.21.08:892][814]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_WidgetC5A2372341AB1149EEE74EBCD19DF11D.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.21.08:926][814]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.21.08:926][814]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.22.52:623][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Options_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset" SILENT=true
+[2020.11.26-19.22.52:696][ 84]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Options_Widget5540190B4D3BA63FB0C78D99A12B07F6.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset'
+[2020.11.26-19.22.52:716][ 84]AssetCheck: New page: Asset Save: Options_Widget
+[2020.11.26-19.22.52:716][ 84]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Options_Widget.Options_Widget
+[2020.11.26-19.22.55:208][320]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2020.11.26-19.22.55:257][320]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/ThirdPersonExampleMapD888C2A34C5E84E396468D88841D5414.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.26-19.22.55:324][320]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.11.26-19.22.55:324][320]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.26-19.23.01:517][831]LogUObjectHash: Compacting FUObjectHashTables data took   4.78ms
+[2020.11.26-19.23.01:563][831]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/ThirdPersonExampleMap5A8038504AA2BF819E17AE96A9AA1916.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.26-19.23.01:629][831]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.11.26-19.23.01:629][831]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.26-19.24.13:985][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.11.26-19.24.14:054][ 58]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/ThirdPersonExampleMap8E54874346451767C8A341B019630F6B.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.26-19.24.14:054][ 58]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap', retrying in .5s...
+[2020.11.26-19.24.14:556][ 58]LogFileManager: Warning: DeleteFile recovered during retry!
+[2020.11.26-19.24.14:556][ 58]LogFileManager: Warning: MoveFile was unable to move '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/ThirdPersonExampleMap8E54874346451767C8A341B019630F6B.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap' (Error Code 32), retrying in .5s...
+[2020.11.26-19.24.15:058][ 58]LogFileManager: Warning: MoveFile recovered during retry!
+[2020.11.26-19.24.15:161][ 58]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.11.26-19.24.15:161][ 58]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.26-19.24.55:130][339]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.11.26-19.24.55:181][339]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/ThirdPersonExampleMapDB28466B4AB67AE3780CB9AA18C70A9B.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.26-19.24.55:243][339]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.11.26-19.24.55:243][339]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.26-19.27.00:513][150]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap
+[2020.11.26-19.27.11:279][238]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2020.11.26-19.27.11:324][238]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/ThirdPersonExampleMap71E167FA4F1D33C03B4ED6B025DF86C9.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.26-19.27.11:372][238]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.140
+[2020.11.26-19.27.11:397][238]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.11.26-19.27.11:397][238]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.26-19.27.32:519][612]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2020.11.26-19.27.32:570][612]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/ThirdPersonExampleMapBD61AF624B03BD26F62AC0B417C97626.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.26-19.27.32:619][612]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.149
+[2020.11.26-19.27.32:634][612]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.11.26-19.27.32:634][612]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.26-19.27.36:335][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.11.26-19.27.36:376][ 28]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/ThirdPersonExampleMap80E47E774F331AEE2CAEAEB214541F9E.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.26-19.27.36:423][ 28]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.135
+[2020.11.26-19.27.36:441][ 28]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.11.26-19.27.36:441][ 28]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.26-19.28.37:107][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2020.11.26-19.28.37:157][412]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/ThirdPersonExampleMap24DF34DB4897732CC62BA48D8CB19D9F.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.26-19.28.37:208][412]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.153
+[2020.11.26-19.28.37:225][412]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.11.26-19.28.37:225][412]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.26-19.28.41:539][863]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.11.26-19.28.41:588][863]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/ThirdPersonExampleMap267C15C8449B75F005CC5480E6C1F145.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.26-19.28.41:635][863]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.145
+[2020.11.26-19.28.41:653][863]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.11.26-19.28.41:653][863]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.26-19.28.44:396][173]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.11.26-19.28.44:441][173]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/ThirdPersonExampleMap99AF2A07402495722423F2B994BB83B2.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.26-19.28.44:489][173]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.142
+[2020.11.26-19.28.44:504][173]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.11.26-19.28.44:504][173]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.26-19.28.56:338][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2020.11.26-19.28.56:386][481]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/ThirdPersonExampleMap77682ABE43ADE42F64BA8DBA7FE7669A.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.26-19.28.56:434][481]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.145
+[2020.11.26-19.28.56:453][481]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.11.26-19.28.56:453][481]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.26-19.29.03:776][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2020.11.26-19.29.03:828][258]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/ThirdPersonExampleMapBE3BAF024C16E6742F4637A6B2932324.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.26-19.29.03:876][258]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.157
+[2020.11.26-19.29.03:891][258]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.11.26-19.29.03:891][258]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.26-19.29.07:332][617]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.11.26-19.29.07:379][617]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/ThirdPersonExampleMap7528ED08412955248359159BF5643F0D.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.26-19.29.07:428][617]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.144
+[2020.11.26-19.29.07:445][617]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.11.26-19.29.07:445][617]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.26-19.29.15:123][458]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2020.11.26-19.29.15:185][458]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/ThirdPersonExampleMap2497F18140F55FDE1E1356AB7710345C.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.26-19.29.15:229][458]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.156
+[2020.11.26-19.29.15:242][458]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.11.26-19.29.15:242][458]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.26-19.29.28:196][814]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2020.11.26-19.29.28:246][814]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/ThirdPersonExampleMapB7475B274E0AE2BC39577C9859D69BB2.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.26-19.29.28:293][814]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.149
+[2020.11.26-19.29.28:308][814]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.11.26-19.29.28:308][814]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.26-19.29.38:813][898]LogUObjectHash: Compacting FUObjectHashTables data took   3.71ms
+[2020.11.26-19.29.38:866][898]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/ThirdPersonExampleMapFF55AC954C1913EE05AFC487FA301297.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.26-19.29.38:914][898]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.152
+[2020.11.26-19.29.38:933][898]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.11.26-19.29.38:933][898]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.26-19.29.46:568][546]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2020.11.26-19.29.46:625][546]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/ThirdPersonExampleMap22C8730A4730A5E719A54EA3DCFA4348.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.26-19.29.46:675][546]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.158
+[2020.11.26-19.29.46:689][546]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.11.26-19.29.46:689][546]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.26-19.30.31:823][959]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2020.11.26-19.30.31:874][959]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/ThirdPersonExampleMap8875EAAF4FF823FEBE5BE288A09880E5.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.26-19.30.31:918][959]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.145
+[2020.11.26-19.30.31:932][959]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.11.26-19.30.31:932][959]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.26-19.30.34:364][202]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2020.11.26-19.30.34:412][202]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/ThirdPersonExampleMapF702301847E04197B953DE8A325F0257.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.26-19.30.34:460][202]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.140
+[2020.11.26-19.30.34:476][202]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.11.26-19.30.34:476][202]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.26-19.30.38:221][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.11.26-19.30.38:274][611]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/ThirdPersonExampleMapAA2FF8FC4F38C17C30E4C782FC316CBC.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.26-19.30.38:317][611]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.143
+[2020.11.26-19.30.38:335][611]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.11.26-19.30.38:336][611]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.26-19.30.48:255][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.11.26-19.30.48:313][579]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/ThirdPersonExampleMapD2F86C7A476C3934090B109B36E9E33D.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.26-19.30.48:367][579]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.160
+[2020.11.26-19.30.48:383][579]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.11.26-19.30.48:383][579]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.26-19.31.16:498][561]LogEditorTransaction: Undo Create Pin Link
+[2020.11.26-19.31.22:613][165]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2020.11.26-19.31.22:665][165]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/ThirdPersonExampleMap842841DB49B674572F36F4A42DD7FE10.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.26-19.31.22:718][165]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.160
+[2020.11.26-19.31.22:735][165]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.11.26-19.31.22:735][165]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.26-19.31.25:822][499]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.11.26-19.31.25:866][499]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/ThirdPersonExampleMap47AFE198480518C3C0C15CB7E2CC8028.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.26-19.31.25:912][499]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.138
+[2020.11.26-19.31.25:926][499]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.11.26-19.31.25:926][499]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.26-19.31.41:523][131]LogUObjectHash: Compacting FUObjectHashTables data took   4.31ms
+[2020.11.26-19.31.41:574][131]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/ThirdPersonExampleMap26F760BB4707320509F9C7935BE9710D.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.26-19.31.41:618][131]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.148
+[2020.11.26-19.31.41:634][131]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.11.26-19.31.41:634][131]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.26-19.31.51:345][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.11.26-19.31.51:406][174]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/ThirdPersonExampleMapD319972A45DA61790ED259A3D1FA2850.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.26-19.31.51:456][174]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.156
+[2020.11.26-19.31.51:469][174]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.11.26-19.31.51:469][174]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.26-19.31.54:867][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.11.26-19.31.54:915][545]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/ThirdPersonExampleMap8BD358394E8C6B00C220B28682F78C7D.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.26-19.31.54:961][545]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.141
+[2020.11.26-19.31.54:978][545]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.11.26-19.31.54:978][545]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.26-19.31.55:325][581]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2020.11.26-19.31.55:410][581]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2020.11.26-19.31.56:373][672]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2020.11.26-19.31.56:419][672]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/ThirdPersonExampleMap4CB9F7454785DE02838CF78054B50309.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.26-19.31.56:471][672]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.150
+[2020.11.26-19.31.56:488][672]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.11.26-19.31.56:488][672]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.26-19.31.59:477][997]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.11.26-19.31.59:530][997]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/ThirdPersonExampleMap22D5E85144AB096D11659CA6FDB6EEBA.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.26-19.31.59:575][997]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.145
+[2020.11.26-19.31.59:589][997]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.11.26-19.31.59:589][997]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.26-19.32.10:053][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.11.26-19.32.10:101][201]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/ThirdPersonExampleMap54D7FBAD4B0C031F05FA8E8D849985C8.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.26-19.32.10:146][201]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.140
+[2020.11.26-19.32.10:162][201]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.11.26-19.32.10:162][201]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.26-19.32.12:394][443]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh)
+[2020.11.26-19.32.12:648][447]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2020.11.26-19.32.12:699][447]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/ThirdPersonExampleMapDC09C3704951BBEAC16CE795D71D9396.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.26-19.32.12:762][447]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.11.26-19.32.12:762][447]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.26-19.32.13:675][509]LogTemp: Repeating last play command: Standalone Game
+[2020.11.26-19.32.13:753][509]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2020.11.26-19.32.38:871][866]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2020.11.26-19.32.38:928][866]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/ThirdPersonExampleMapAD11CED44542C7BD0636DBA1B23783BC.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.26-19.32.38:992][866]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.11.26-19.32.38:992][866]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.26-19.33.12:444][166]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.33.12:486][166]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_Widget34B48D70431C32BC93C4B59C329BDAEC.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.33.12:522][166]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.33.12:522][166]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.33.15:301][457]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.33.15:339][457]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_Widget7799C4DC4D146B993E581C9D0824C6A2.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.33.15:372][457]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.33.15:372][457]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.33.17:187][652]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.33.17:221][652]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_Widget5E358E27494CD5F91D3D6999DB4A2750.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.33.17:258][652]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.33.17:258][652]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.33.19:394][886]BlueprintLog: New page: Compile Menu_Pause_Widget
+[2020.11.26-19.33.19:455][886]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2020.11.26-19.33.20:180][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.33.20:217][955]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_WidgetDED298AA471E067F8005A8BFE03B3FFE.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.33.20:254][955]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.33.20:254][955]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.33.22:490][140]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2020.11.26-19.33.22:540][140]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/ThirdPersonExampleMap0725007448D5D5DC0F01189BB80841B2.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.26-19.33.22:588][140]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.149
+[2020.11.26-19.33.22:604][140]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.11.26-19.33.22:604][140]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.26-19.33.24:579][355]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.33.24:620][355]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_WidgetA694019D428A70E3C335D3A1F6A244AF.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.33.24:651][355]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.33.24:651][355]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.33.25:365][406]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.11.26-19.33.25:690][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2020.11.26-19.33.25:739][418]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/ThirdPersonExampleMap705B288F44579C25FD0D978DBFAAC776.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.26-19.33.25:798][418]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.11.26-19.33.25:798][418]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.26-19.33.27:147][510]LogTemp: Repeating last play command: Standalone Game
+[2020.11.26-19.33.27:226][510]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2020.11.26-19.34.19:668][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.11.26-19.34.19:743][891]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/ThirdPersonExampleMap00C4E9B1439F33933E48E4AEF214C50E.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.26-19.34.19:806][891]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.11.26-19.34.19:806][891]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.26-19.34.32:208][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2020.11.26-19.34.32:255][252]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/ThirdPersonExampleMapEE2DE04E427EFB03D5BCFBAFC068CE71.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.26-19.34.32:300][252]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.142
+[2020.11.26-19.34.32:315][252]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.11.26-19.34.32:315][252]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.26-19.34.32:861][307]BlueprintLog: New page: Compile ThirdPersonExampleMap
+[2020.11.26-19.34.32:936][307]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2020.11.26-19.34.33:532][358]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2020.11.26-19.34.33:583][358]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/ThirdPersonExampleMap28CBFE1A4363CBC08488F79515403FC1.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.26-19.34.33:632][358]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.148
+[2020.11.26-19.34.33:651][358]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.11.26-19.34.33:651][358]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.26-19.34.34:513][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.11.26-19.34.34:564][441]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/ThirdPersonExampleMapCBD06FEA40D00BF0824F178F64C88297.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.26-19.34.34:611][441]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.144
+[2020.11.26-19.34.34:626][441]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.11.26-19.34.34:626][441]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.26-19.34.36:124][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2020.11.26-19.34.36:175][556]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/ThirdPersonExampleMapDE01EB4D4C10AB8AFCE308A5BA33E613.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.26-19.34.36:239][556]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.11.26-19.34.36:239][556]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.26-19.34.36:995][619]LogTemp: Repeating last play command: Standalone Game
+[2020.11.26-19.34.37:066][619]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2020.11.26-19.35.17:888][ 18]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.11.26-19.35.18:099][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.11.26-19.35.18:152][ 22]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/ThirdPersonExampleMap252E1BC142979528315556B493159389.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.26-19.35.18:215][ 22]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.11.26-19.35.18:215][ 22]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.26-19.35.20:547][211]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.11.26-19.35.20:597][211]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/ThirdPersonExampleMap443E0130440AEA8DB7239DA128D09908.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.26-19.35.20:644][211]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.143
+[2020.11.26-19.35.20:658][211]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.11.26-19.35.20:658][211]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.26-19.35.33:437][638]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.35.33:475][638]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_WidgetFCE8B742403DC0682A7058853A3DA7E7.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.35.33:506][638]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.35.33:506][638]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.35.39:092][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Menu_Pause_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset" SILENT=true
+[2020.11.26-19.35.39:128][215]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Menu_Pause_Widget0A694AE64D91331C39151B871F2B2964.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Menu_Pause_Widget.uasset'
+[2020.11.26-19.35.39:155][215]AssetCheck: New page: Asset Save: Menu_Pause_Widget
+[2020.11.26-19.35.39:155][215]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Menu_Pause_Widget.Menu_Pause_Widget
+[2020.11.26-19.35.41:744][471]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2020.11.26-19.35.41:795][471]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/ThirdPersonExampleMap10A92C3844DE4EC97570AE8309BEB411.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.26-19.35.41:843][471]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.146
+[2020.11.26-19.35.41:861][471]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.11.26-19.35.41:861][471]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.26-19.35.43:567][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2020.11.26-19.35.43:613][645]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/ThirdPersonExampleMapB97300A14F4C9AB53ADD468BE2D44C47.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.26-19.35.43:664][645]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.142
+[2020.11.26-19.35.43:686][645]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.11.26-19.35.43:686][645]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.11.26-19.35.44:831][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.11.26-19.35.44:879][719]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/ThirdPersonExampleMap7CE4318A43AE8106B6B833BFE7A6D177.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/ThirdPersonCPP/Maps/ThirdPersonExampleMap.umap'
+[2020.11.26-19.35.44:943][719]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2020.11.26-19.35.44:943][719]LogContentValidation: Display: Validating World /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
