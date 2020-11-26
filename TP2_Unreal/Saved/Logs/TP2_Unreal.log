@@ -1585,3 +1585,173 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.26-18.23.50:268][ 56]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/MainMenuCD0AB5AA4A7DDB44D8FE95A3E36FE368.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/MainMenu.umap'
 [2020.11.26-18.23.50:317][ 56]AssetCheck: New page: Asset Save: MainMenu
 [2020.11.26-18.23.50:317][ 56]LogContentValidation: Display: Validating World /Game/Menu/MainMenu.MainMenu
+[2020.11.26-18.26.56:714][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Options_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset" SILENT=true
+[2020.11.26-18.26.56:753][805]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Options_Widget40CBFF1049421540E9EEB8AD845F1336.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset'
+[2020.11.26-18.26.56:768][805]AssetCheck: New page: Asset Save: Options_Widget
+[2020.11.26-18.26.56:769][805]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Options_Widget.Options_Widget
+[2020.11.26-18.27.00:546][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Main_Menu_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Main_Menu_Widget.uasset" SILENT=true
+[2020.11.26-18.27.00:574][ 28]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Main_Menu_WidgetE41E53A24D0ABC791CF80E9C44BB4ED9.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Main_Menu_Widget.uasset'
+[2020.11.26-18.27.00:586][ 28]AssetCheck: New page: Asset Save: Main_Menu_Widget
+[2020.11.26-18.27.00:586][ 28]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Main_Menu_Widget.Main_Menu_Widget
+[2020.11.26-18.27.02:024][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.11.26-18.27.02:047][111]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/MainMenu9FF43C384AEE0BEB06A3AF8A6075F845.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/MainMenu.umap'
+[2020.11.26-18.27.02:082][111]LogFileHelpers: Saving map 'MainMenu' took 0.093
+[2020.11.26-18.27.02:095][111]AssetCheck: New page: Asset Save: MainMenu
+[2020.11.26-18.27.02:095][111]LogContentValidation: Display: Validating World /Game/Menu/MainMenu.MainMenu
+[2020.11.26-18.27.11:319][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.11.26-18.27.11:341][659]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/MainMenuEE5ADFE3419E878446851392E90A4E08.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/MainMenu.umap'
+[2020.11.26-18.27.11:378][659]LogFileHelpers: Saving map 'MainMenu' took 0.093
+[2020.11.26-18.27.11:391][659]AssetCheck: New page: Asset Save: MainMenu
+[2020.11.26-18.27.11:391][659]LogContentValidation: Display: Validating World /Game/Menu/MainMenu.MainMenu
+[2020.11.26-18.27.13:346][772]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2020.11.26-18.27.13:370][772]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/MainMenuF1FE24884AF612AE786C93996CE9B45A.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/MainMenu.umap'
+[2020.11.26-18.27.13:422][772]AssetCheck: New page: Asset Save: MainMenu
+[2020.11.26-18.27.13:422][772]LogContentValidation: Display: Validating World /Game/Menu/MainMenu.MainMenu
+[2020.11.26-18.27.25:779][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Options_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset" SILENT=true
+[2020.11.26-18.27.25:812][511]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Options_Widget380C61F348B9CE1431EECAA149855A5C.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset'
+[2020.11.26-18.27.25:825][511]AssetCheck: New page: Asset Save: Options_Widget
+[2020.11.26-18.27.25:825][511]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Options_Widget.Options_Widget
+[2020.11.26-18.28.02:083][603]LogSlate: FontCache flush requested. Reason: Font Atlases Full; 2/1 Pages; frames since last flush: 30415
+[2020.11.26-18.28.02:085][603]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.11.26-18.28.02:095][604]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.11.26-18.28.02:096][604]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.11.26-18.28.02:101][604]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.26-18.28.02:102][604]LogSlate: Took 0.000140 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.11.26-18.28.02:103][604]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.11.26-18.28.19:535][570]LogSlate: Took 0.001023 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2020.11.26-18.28.45:838][ 67]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Options_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset" SILENT=true
+[2020.11.26-18.28.45:878][ 67]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Options_WidgetBFC01B144AF160FC04111BAB99622797.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset'
+[2020.11.26-18.28.45:896][ 67]AssetCheck: New page: Asset Save: Options_Widget
+[2020.11.26-18.28.45:896][ 67]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Options_Widget.Options_Widget
+[2020.11.26-18.28.53:939][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Options_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset" SILENT=true
+[2020.11.26-18.28.53:980][541]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Options_WidgetD0E4BBB143E74D2B7E0D098C68AE0AE4.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset'
+[2020.11.26-18.28.53:994][541]AssetCheck: New page: Asset Save: Options_Widget
+[2020.11.26-18.28.53:994][541]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Options_Widget.Options_Widget
+[2020.11.26-18.29.02:979][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Options_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset" SILENT=true
+[2020.11.26-18.29.03:021][ 77]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Options_Widget2AA82F3E47CC6AE34887B8A4941B3B8B.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset'
+[2020.11.26-18.29.03:034][ 77]AssetCheck: New page: Asset Save: Options_Widget
+[2020.11.26-18.29.03:034][ 77]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Options_Widget.Options_Widget
+[2020.11.26-18.29.16:542][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Options_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset" SILENT=true
+[2020.11.26-18.29.16:583][882]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Options_Widget48AC46404A3F8A3C4180B59DB4532B0E.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset'
+[2020.11.26-18.29.16:597][882]AssetCheck: New page: Asset Save: Options_Widget
+[2020.11.26-18.29.16:597][882]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Options_Widget.Options_Widget
+[2020.11.26-18.29.30:758][727]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Options_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset" SILENT=true
+[2020.11.26-18.29.30:799][727]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Options_Widget96F83CFA489B978469B7CAAB9A7FC90C.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset'
+[2020.11.26-18.29.30:813][727]AssetCheck: New page: Asset Save: Options_Widget
+[2020.11.26-18.29.30:813][727]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Options_Widget.Options_Widget
+[2020.11.26-18.29.32:111][805]BlueprintLog: New page: Compile Options_Widget
+[2020.11.26-18.29.32:166][805]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2020.11.26-18.29.33:480][875]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Options_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset" SILENT=true
+[2020.11.26-18.29.33:511][875]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Options_Widget2CF4F09045D6768E38D8B097453C0F1A.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset'
+[2020.11.26-18.29.33:524][875]AssetCheck: New page: Asset Save: Options_Widget
+[2020.11.26-18.29.33:524][875]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Options_Widget.Options_Widget
+[2020.11.26-18.29.48:850][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Options_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset" SILENT=true
+[2020.11.26-18.29.48:891][255]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Options_Widget1DADEC424A23DDDB4CD3608BCE022D61.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset'
+[2020.11.26-18.29.48:903][255]AssetCheck: New page: Asset Save: Options_Widget
+[2020.11.26-18.29.48:904][255]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Options_Widget.Options_Widget
+[2020.11.26-18.30.04:061][146]Cmd: TRANSACTION UNDO
+[2020.11.26-18.30.04:061][146]LogEditorTransaction: Undo Rename Widget
+[2020.11.26-18.30.36:639][ 62]BlueprintLog: New page: Compile Options_Widget
+[2020.11.26-18.30.36:689][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   4.28ms
+[2020.11.26-18.30.38:800][170]LogEditorTransaction: Undo Move Widget
+[2020.11.26-18.30.39:532][203]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Options_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset" SILENT=true
+[2020.11.26-18.30.39:572][203]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Options_Widget3384666440FB19B86B2296A73BE3806C.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset'
+[2020.11.26-18.30.39:586][203]AssetCheck: New page: Asset Save: Options_Widget
+[2020.11.26-18.30.39:586][203]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Options_Widget.Options_Widget
+[2020.11.26-18.30.53:407][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Options_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset" SILENT=true
+[2020.11.26-18.30.53:448][ 18]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Options_Widget8CD573ED4980BC368693A48D39F92945.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset'
+[2020.11.26-18.30.53:462][ 18]AssetCheck: New page: Asset Save: Options_Widget
+[2020.11.26-18.30.53:462][ 18]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Options_Widget.Options_Widget
+[2020.11.26-18.31.07:483][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Options_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset" SILENT=true
+[2020.11.26-18.31.07:522][851]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Options_Widget12ECC65D4939ED7045D4E28A70FFCAF5.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset'
+[2020.11.26-18.31.07:535][851]AssetCheck: New page: Asset Save: Options_Widget
+[2020.11.26-18.31.07:535][851]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Options_Widget.Options_Widget
+[2020.11.26-18.31.10:934][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Options_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset" SILENT=true
+[2020.11.26-18.31.10:975][ 53]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Options_Widget894A63B84E6154A25CD545B9CD9B98E9.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset'
+[2020.11.26-18.31.10:985][ 53]AssetCheck: New page: Asset Save: Options_Widget
+[2020.11.26-18.31.10:985][ 53]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Options_Widget.Options_Widget
+[2020.11.26-18.31.11:836][103]BlueprintLog: New page: Compile Options_Widget
+[2020.11.26-18.31.11:888][103]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2020.11.26-18.31.12:510][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Options_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset" SILENT=true
+[2020.11.26-18.31.12:553][134]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Options_WidgetEA7544874B1AFEE77A942194EBA7B6CA.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset'
+[2020.11.26-18.31.12:563][134]AssetCheck: New page: Asset Save: Options_Widget
+[2020.11.26-18.31.12:564][134]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Options_Widget.Options_Widget
+[2020.11.26-18.31.14:433][246]LogSlate: Took 0.000146 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.11.26-18.31.14:443][247]LogSlate: Took 0.000174 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.11.26-18.31.46:205][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Options_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset" SILENT=true
+[2020.11.26-18.31.46:239][497]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Options_Widget2805EA1B4630235F8F729B8CF47809E5.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset'
+[2020.11.26-18.31.46:254][497]AssetCheck: New page: Asset Save: Options_Widget
+[2020.11.26-18.31.46:254][497]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Options_Widget.Options_Widget
+[2020.11.26-18.31.48:233][615]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Options_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset" SILENT=true
+[2020.11.26-18.31.48:274][615]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Options_Widget7405D4EE45D4FAD6061C43A57E343323.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset'
+[2020.11.26-18.31.48:289][615]AssetCheck: New page: Asset Save: Options_Widget
+[2020.11.26-18.31.48:289][615]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Options_Widget.Options_Widget
+[2020.11.26-18.32.10:309][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Options_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset" SILENT=true
+[2020.11.26-18.32.10:356][932]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Options_Widget60222A534BE6CE24957DDEBC8E5983EF.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset'
+[2020.11.26-18.32.10:369][932]AssetCheck: New page: Asset Save: Options_Widget
+[2020.11.26-18.32.10:369][932]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Options_Widget.Options_Widget
+[2020.11.26-18.32.14:684][190]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Options_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset" SILENT=true
+[2020.11.26-18.32.14:723][190]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Options_WidgetB4C9CE6B49B536BC9D418C95539C57A9.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset'
+[2020.11.26-18.32.14:735][190]AssetCheck: New page: Asset Save: Options_Widget
+[2020.11.26-18.32.14:735][190]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Options_Widget.Options_Widget
+[2020.11.26-18.32.16:497][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Options_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset" SILENT=true
+[2020.11.26-18.32.16:533][295]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Options_Widget239965434B012423B01F89A2B08D256D.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset'
+[2020.11.26-18.32.16:546][295]AssetCheck: New page: Asset Save: Options_Widget
+[2020.11.26-18.32.16:546][295]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Options_Widget.Options_Widget
+[2020.11.26-18.32.21:177][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Options_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset" SILENT=true
+[2020.11.26-18.32.21:219][572]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Options_WidgetFDD391584930E0461826E9A48E55F398.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset'
+[2020.11.26-18.32.21:236][572]AssetCheck: New page: Asset Save: Options_Widget
+[2020.11.26-18.32.21:236][572]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Options_Widget.Options_Widget
+[2020.11.26-18.32.23:316][696]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Options_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset" SILENT=true
+[2020.11.26-18.32.23:358][696]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Options_Widget8A3C67DB4E34BCA576E621BE92A6EDAC.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset'
+[2020.11.26-18.32.23:371][696]AssetCheck: New page: Asset Save: Options_Widget
+[2020.11.26-18.32.23:371][696]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Options_Widget.Options_Widget
+[2020.11.26-18.32.23:811][723]BlueprintLog: New page: Compile Options_Widget
+[2020.11.26-18.32.23:865][723]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2020.11.26-18.32.24:524][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Options_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset" SILENT=true
+[2020.11.26-18.32.24:565][758]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Options_Widget24E32E084309BF02AA63F6B60131EE6A.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset'
+[2020.11.26-18.32.24:578][758]AssetCheck: New page: Asset Save: Options_Widget
+[2020.11.26-18.32.24:578][758]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Options_Widget.Options_Widget
+[2020.11.26-18.32.27:571][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Options_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset" SILENT=true
+[2020.11.26-18.32.27:607][936]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Options_Widget2F5DDA2A4C407D8F5D603C968A4C3960.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset'
+[2020.11.26-18.32.27:620][936]AssetCheck: New page: Asset Save: Options_Widget
+[2020.11.26-18.32.27:620][936]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Options_Widget.Options_Widget
+[2020.11.26-18.32.27:884][952]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.11.26-18.32.28:543][992]LogEditorViewport: Clicking Background
+[2020.11.26-18.32.28:768][  2]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2020.11.26-18.32.28:795][  2]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/MainMenu51C59AD04A8CDBFB02EA158F3E9CB3CB.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/MainMenu.umap'
+[2020.11.26-18.32.28:846][  2]AssetCheck: New page: Asset Save: MainMenu
+[2020.11.26-18.32.28:846][  2]LogContentValidation: Display: Validating World /Game/Menu/MainMenu.MainMenu
+[2020.11.26-18.32.29:636][ 50]LogTemp: Repeating last play command: Standalone Game
+[2020.11.26-18.32.29:690][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2020.11.26-18.32.49:428][243]LogEditorViewport: Clicking Background
+[2020.11.26-18.32.49:609][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.11.26-18.32.49:629][250]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/MainMenuD119BCC0483DC9069AA5FBA6EA413EF6.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/MainMenu.umap'
+[2020.11.26-18.32.49:676][250]AssetCheck: New page: Asset Save: MainMenu
+[2020.11.26-18.32.49:676][250]LogContentValidation: Display: Validating World /Game/Menu/MainMenu.MainMenu
+[2020.11.26-18.33.38:052][ 76]LogEditorViewport: Clicking Background
+[2020.11.26-18.33.38:342][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.11.26-18.33.38:366][ 90]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/MainMenu748D4DCB451D0725C80E199E7299A590.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/MainMenu.umap'
+[2020.11.26-18.33.38:414][ 90]AssetCheck: New page: Asset Save: MainMenu
+[2020.11.26-18.33.38:414][ 90]LogContentValidation: Display: Validating World /Game/Menu/MainMenu.MainMenu
+[2020.11.26-18.33.48:980][721]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2020.11.26-18.33.49:002][721]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/MainMenu88A18EBA48CD907A553CA998A997D6DD.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/MainMenu.umap'
+[2020.11.26-18.33.49:044][721]LogFileHelpers: Saving map 'MainMenu' took 0.098
+[2020.11.26-18.33.49:057][721]AssetCheck: New page: Asset Save: MainMenu
+[2020.11.26-18.33.49:057][721]LogContentValidation: Display: Validating World /Game/Menu/MainMenu.MainMenu
+[2020.11.26-18.33.50:356][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Options_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset" SILENT=true
+[2020.11.26-18.33.50:391][798]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Options_Widget22750B9C4A28D47CD3622F812FD4860F.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset'
+[2020.11.26-18.33.50:402][798]AssetCheck: New page: Asset Save: Options_Widget
+[2020.11.26-18.33.50:402][798]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Options_Widget.Options_Widget
+[2020.11.26-18.33.53:708][995]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Options_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset" SILENT=true
+[2020.11.26-18.33.53:742][995]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Options_Widget3790811148B106713FDA879930A1D52B.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset'
+[2020.11.26-18.33.53:755][995]AssetCheck: New page: Asset Save: Options_Widget
+[2020.11.26-18.33.53:755][995]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Options_Widget.Options_Widget
+[2020.11.26-18.33.56:370][151]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Options_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset" SILENT=true
+[2020.11.26-18.33.56:402][151]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Options_Widget10060A7E48D0D54F17677AB4141F43FB.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Options_Widget.uasset'
+[2020.11.26-18.33.56:415][151]AssetCheck: New page: Asset Save: Options_Widget
+[2020.11.26-18.33.56:415][151]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Options_Widget.Options_Widget
+[2020.11.26-18.33.58:244][260]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Menu/Main_Menu_Widget" FILE="../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Main_Menu_Widget.uasset" SILENT=true
+[2020.11.26-18.33.58:273][260]LogSavePackage: Moving '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Saved/Main_Menu_WidgetF734209C44D8C8331A09D7A56DB41894.tmp' to '../../../../../../Users/mxcol/Documents/Unreal Projects/CPP_TP2_Unreal/TP2_Unreal/Content/Menu/Main_Menu_Widget.uasset'
+[2020.11.26-18.33.58:286][260]AssetCheck: New page: Asset Save: Main_Menu_Widget
+[2020.11.26-18.33.58:286][260]LogContentValidation: Display: Validating WidgetBlueprint /Game/Menu/Main_Menu_Widget.Main_Menu_Widget
